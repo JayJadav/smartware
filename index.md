@@ -1,12 +1,17 @@
+# Week8
+
+# Week7
 
 
 # Week6
+Worked on UML diagram as well as psuedo code .
 
 # Week5
 ![invoice](https://user-images.githubusercontent.com/43185906/46378746-9c8b2d80-c66a-11e8-9bd2-c2db49c1f30d.PNG)
+
 # Week4
 Budget
-
+![image](https://user-images.githubusercontent.com/43185906/47387436-5cedb980-d6dd-11e8-90c2-b8bd429985bb.png)
 
 # Week3
 Schedule
