@@ -1,3 +1,6 @@
+# Week 9
+Created pcb design, Breadboard as well as schema and exported generated Gerber file to Prototype lab.
+
 # Week8
 Worked on breadboarding and soldering. Tested my addrress on RPi and noticed my default address as 0x05. Later I realised it should suppose to show 0x06. Worked on pinouts where I connected AD1 to +ve supply and AD0 to SCL and I was able to change my address from 0x05 to 0x06
 
