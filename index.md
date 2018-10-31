@@ -16,6 +16,7 @@ Steps for pinout (Only for sensor that I’m currently holding):
 6) Connect SDA to I2C clock SDA pin on your RPI (which is pin no.2 in 2nd Row)
 
 
+![whatsapp image 2018-10-31 at 12 05 21 pm](https://user-images.githubusercontent.com/43185906/47801889-82924880-dd05-11e8-990b-06bec037c3d5.jpeg)
 
 ![whatsapp image 2018-10-31 at 12 05 21 pm 1](https://user-images.githubusercontent.com/43185906/47801849-67273d80-dd05-11e8-8d55-5040117f2e17.jpeg)
 
