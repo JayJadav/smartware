@@ -3,11 +3,9 @@ Created pcb design, Breadboard as well as schema and exported generated Gerber f
 
 ![whatsapp image 2018-10-31 at 12 09 39 pm](https://user-images.githubusercontent.com/43185906/47802103-fdf3fa00-dd05-11e8-9b34-e50ed16d51f0.jpeg)
 
-
-
-
-
 ![whatsapp image 2018-10-31 at 12 09 39 pm 2](https://user-images.githubusercontent.com/43185906/47802088-f6ccec00-dd05-11e8-9973-30492c135280.jpeg)
+
+
 
 
 
