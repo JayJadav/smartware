@@ -1,10 +1,26 @@
 # Week8
+Worked on breadboarding and soldering. Tested my addrress on RPi and noticed my default address as 0x05. Later I realised it should suppose to show 0x06. Worked on pinouts where I connected AD1 to +ve supply and AD0 to SCL and I was able to change my address from 0x05 to 0x06
+
+Steps for pinout (Only for sensor that I’m currently holding):
+
+1) Solder your sensor
+
+2) Follow the RPI Header reference for your pinout to breadboard
+
+3) Look for the 3V/5V pin from your Rpi and connect it to breadboard (pin no.1)
+
+4) Connect VCC to 3V power supply and GND to common ground (pin no.5 in 2nd Row)
+
+5) Now connect your SCL to I2C clock SCL pin on your RPi(pin no.3 in 2nd Row)
+
+6) Connect SDA to I2C clock SDA pin on your RPI (which is pin no.2 in 2nd Row)
+
 
 # Week7
-
+ Worked on Psuedo code assignment with First year student.
 
 # Week6
-Worked on UML diagram as well as psuedo code .
+Worked on UML diagram and was a study day off .
 
 # Week5
 ![invoice](https://user-images.githubusercontent.com/43185906/46378746-9c8b2d80-c66a-11e8-9bd2-c2db49c1f30d.PNG)
