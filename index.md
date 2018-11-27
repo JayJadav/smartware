@@ -1,5 +1,8 @@
 # Week 13 Nov27
-PPT SLIDES
+**Presentation**
+Worked on final Documentation of index.md and presentation during the class hours.
+
+[MAG3110 3-Axis Magnetometer.pptx](https://github.com/JayJadav/smartware/files/2622098/MAG3110.3-Axis.Magnetometer.pptx)
 
 # Week 12 Nov20
   This week I worked on the coral draw case . I had to make some changes in the coral draw file . As my Pcb  Board was slightly out of the raspberry pi . So I had to make changes in the width and length of the base as well as top layer but making sure that the hole-points for the raspberry pie and case don't change and are perfectly aligned.
