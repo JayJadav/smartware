@@ -16,7 +16,13 @@ Created pcb design, Breadboard as well as schema and exported generated Gerber f
 ![whatsapp image 2018-10-31 at 12 09 39 pm 1](https://user-images.githubusercontent.com/43185906/47802072-eddc1a80-dd05-11e8-8b42-f29e63214f07.jpeg)
 
 # Week8
+
 Worked on breadboarding and soldering. Tested my addrress on RPi and noticed my default address as 0x05. Later I realised it should suppose to show 0x06. Worked on pinouts where I connected AD1 to +ve supply and AD0 to SCL and I was able to change my address from 0x05 to 0x06
+
+After 
+
+Before 
+![whatsapp image 2018-11-26 at 8 55 05 pm](https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg)
 
 Steps for pinout (Only for sensor that I’m currently holding):
 
