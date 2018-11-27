@@ -7,11 +7,12 @@
 # Week 10
 Got my pcb board and started working on soldering of it and made the use of necessary header pins as well as made sure that I can also get the same ip address once the sensor is soldered.
 
-
+![whatsapp image 2018-11-26 at 8 55 05 pm](https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg)
 # Week 9
 Created pcb design, Breadboard as well as schema and exported generated Gerber file to Prototype lab.
-
-
+THe File I sent for my PCB
+**Gerber File**
+[sensor.zip](https://github.com/JayJadav/smartware/files/2618036/sensor.zip)
 
 ![whatsapp image 2018-10-31 at 12 09 39 pm](https://user-images.githubusercontent.com/43185906/47802103-fdf3fa00-dd05-11e8-9b34-e50ed16d51f0.jpeg)
 
