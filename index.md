@@ -32,7 +32,7 @@ This is the picture of the coral  draw case
 ![capture](https://user-images.githubusercontent.com/43185906/49056605-5f569e00-f1ca-11e8-9c04-012a5cc33bea.PNG)
 
 # Week 11 Nov13
-I worked on the Power up . First I had some problem finding the code online because the sensor I ordered was from Sparkfun programmed to  be run on Raspberry Pi 3b+ and all the code available online was of Adafruit and that was also Audrino driver. 
+I worked on the Power up . First I had some problem finding the code online because the sensor I ordered was from Sparkfun programmed to  be run on Raspberry Pi 3b+ and all the code available online was of Adafruit and that was also Audrino driver.So this week there was no additional expense to my original budget. 
 
 Intiallly I faced some problem getting the values from the sensor , but by the end of the lab I was able to get the readings from my sensor.
 
