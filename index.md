@@ -101,8 +101,15 @@ Steps for pinout (Only for sensor that I’m currently holding):
 ![whatsapp image 2018-10-31 at 12 05 21 pm 1](https://user-images.githubusercontent.com/43185906/47801849-67273d80-dd05-11e8-8d55-5040117f2e17.jpeg)
 
 
-# Week7  Oct16
- Worked on Psuedo code assignment with First year student.
+# Week7  Oct16 
+This Week I got my sensor as well as Raspberry Pi from sparkfun and also worked on Psuedo code assignment with First year student.
+
+**Parts**
+
+![whatsapp image 2018-11-27 at 5 55 07 pm](https://user-images.githubusercontent.com/43185906/49117110-ae094400-f26d-11e8-947b-9564b7c30fcb.jpeg)
+
+![raspberry_pi_3_b _ 40759296402](https://user-images.githubusercontent.com/43185906/49117134-c4170480-f26d-11e8-96ad-1ea1458842cf.png)
+
 
 This is the psuedo code:-
 [MAG3110 3-Axis Magnetometer-converted (1).pdf](https://github.com/JayJadav/smartware/files/2621191/MAG3110.3-Axis.Magnetometer-converted.1.pdf)
