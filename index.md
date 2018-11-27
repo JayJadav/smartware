@@ -1,7 +1,7 @@
-# Week 13
+# Week 13 Nov27
 PPT SLIDES
 
-# Week 12 
+# Week 12 Nov20
   This week I worked on the coral draw case . I had to make some changes in the coral draw file . As my Pcb  Board was slightly out of the raspberry pi . So I had to make changes in the width and length of the base as well as top layer but making sure that the hole-points for the raspberry pie and case don't change and are perfectly aligned.
   
  After
@@ -58,6 +58,7 @@ I Worked on soldering of the pcb and made sure the sensor is properly compatible
 
 # Week 9  Oct29
 Created pcb design, Breadboard as well as schema and exported generated Gerber file to Prototype lab.
+
 
 THe File I sent for my PCB
 **Gerber File**
