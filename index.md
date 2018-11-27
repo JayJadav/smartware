@@ -98,8 +98,13 @@ Steps for pinout (Only for sensor that I’m currently holding):
 # Week7
  Worked on Psuedo code assignment with First year student.
 
+This is the psuedo code:-
+[MAG3110 3-Axis Magnetometer-converted (1).pdf](https://github.com/JayJadav/smartware/files/2621191/MAG3110.3-Axis.Magnetometer-converted.1.pdf)
+
 # Week6
 Worked on UML diagram and was a study day off .
+
+![image](https://user-images.githubusercontent.com/43185906/49100423-e5fa9200-f241-11e8-8e5e-12d6eab21f13.png)
 
 # Week5
 ![invoice](https://user-images.githubusercontent.com/43185906/46378746-9c8b2d80-c66a-11e8-9bd2-c2db49c1f30d.PNG)
