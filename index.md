@@ -3,7 +3,15 @@
 # Week 12
 
 # Week 11
+I worked on the Power up . First I had some problem finding the code online because the sensor I ordered was from Sparkfun programmed to  be run on Raspberry Pi 3b+ and all the code available online was of Adafruit and that was also Audrino driver. 
 
+Intiallly I faced some problem getting the values from the sensor , but by the end of the lab I was able to get the readings from my sensor.
+
+I tried With different metallic as well as electromagnetic devices . As soon as I got them close to the senosr the readings would change.
+![whatsapp image 2018-11-26 at 8 55 05 pm 2](https://user-images.githubusercontent.com/43185906/49055855-34b71600-f1c7-11e8-91f5-171996c0d903.jpeg)
+PROGRESS REPORT:- 
+So it is week 10 and I got my PCB today from the prototype lab. I was late in getting it because when i went on monday to confirm that wheter my PCB is done but vlad told me that they havn't recieved any email under my name then I showed him the mail I had sent and he replied that it must be stuck in a spam or something like that and told me to re-send it again. So I got it on tuesday and did my soldering in the class.To connect my sensor to PCB I bought header pins for my sensor from the prototype lab. Once soldering was done so I tried to obtain my i2c address by connecting my PCB to the Raspberry and i was successful in doing it. 
+So no additional expense was added in my original budget.
 # Week 10
 Got my pcb board and started working on soldering of it and made the use of necessary header pins as well as made sure that I can also get the same ip address once the sensor is soldered.
 ![whatsapp image 2018-11-26 at 8 55 05 pm](https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg)
