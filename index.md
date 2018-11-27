@@ -55,7 +55,7 @@ I Worked on soldering of the pcb and made sure the sensor is properly compatible
 
 ![whatsapp image 2018-11-26 at 8 55 06 pm 5](https://user-images.githubusercontent.com/43185906/49055245-d8eb8d80-f1c4-11e8-9943-502f761685ae.jpeg)
 
-# Week 9
+# Week 9  
 Created pcb design, Breadboard as well as schema and exported generated Gerber file to Prototype lab.
 
 THe File I sent for my PCB
@@ -68,8 +68,8 @@ THe File I sent for my PCB
 
 ![whatsapp image 2018-10-31 at 12 09 39 pm 1](https://user-images.githubusercontent.com/43185906/47802072-eddc1a80-dd05-11e8-8b42-f29e63214f07.jpeg)
 
-# Week8
-Worked on breadboarding and soldering. Tested my addrress on RPi and noticed my default address as 0x06. Later I realised it should suppose to show 0x0e. Worked on pinouts where I connected AD1 to +ve supply and AD0 to SCL and I was able to change my address from 0x05 to 0x0e.
+# Week8   Oct23 
+Worked on breadboarding and soldering. Tested my addrress on RPi and noticed my default address as 0x0E. Later I realised it should suppose to show 0x0e. Worked on pinouts where I connected AD1 to +ve supply and AD0 to SCL and I was able to change my address from 0x05 to 0x0E.
 
 **After** 
 *When I changed my address* 
@@ -95,32 +95,44 @@ Steps for pinout (Only for sensor that I’m currently holding):
 ![whatsapp image 2018-10-31 at 12 05 21 pm 1](https://user-images.githubusercontent.com/43185906/47801849-67273d80-dd05-11e8-8d55-5040117f2e17.jpeg)
 
 
-# Week7
+# Week7  Oct16
  Worked on Psuedo code assignment with First year student.
 
 This is the psuedo code:-
 [MAG3110 3-Axis Magnetometer-converted (1).pdf](https://github.com/JayJadav/smartware/files/2621191/MAG3110.3-Axis.Magnetometer-converted.1.pdf)
 
-# Week6
+# Week6  Oct09
 Worked on UML diagram and was a study day off .
 
 ![image](https://user-images.githubusercontent.com/43185906/49100423-e5fa9200-f241-11e8-8e5e-12d6eab21f13.png)
 
-# Week5
+# Week5 Oct05
+
+This is Invoice of The sensor and Raspberry Pi  I Ordered. 
 ![invoice](https://user-images.githubusercontent.com/43185906/46378746-9c8b2d80-c66a-11e8-9bd2-c2db49c1f30d.PNG)
 
-# Week4
+# Week4 Sept25
+
 Budget
 ![image](https://user-images.githubusercontent.com/43185906/47387436-5cedb980-d6dd-11e8-90c2-b8bd429985bb.png)
 
-# Week3
+**Budget**
+[budget.docx](https://github.com/JayJadav/smartware/files/2621811/budget.docx)
+
+# Week3 Sept18
 Schedule
 ![image](https://user-images.githubusercontent.com/43185906/47387249-c1f4df80-d6dc-11e8-9725-7fe4e579356e.png)
 
-# Week2
+**Schedule**
+[Schedule.zip](https://github.com/JayJadav/smartware/files/2621844/Schedule.zip)
+
+# Week2 Sept11
 
 Proposal
 ![image](https://user-images.githubusercontent.com/43185906/47385882-3e85bf00-d6d9-11e8-973b-cc82fc21dd60.png)
 
-# Week 1
+**Proposal**
+[ProposalContentStudent.xlsx](https://github.com/JayJadav/smartware/files/2621819/ProposalContentStudent.xlsx)
+
+# Week 1 Sept04
 **Blinking LED**
