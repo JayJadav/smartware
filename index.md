@@ -1,6 +1,11 @@
 # Week 13
 
 # Week 12
+  This week I worked on the coral draw case . I had to make some changes in the coral draw file . As my Pcb  Board was slightly out of the raspberry pi . So I had to make changes in the width and length of the base as well as top layer but making sure that the hole-points for the raspberry pie and case don't change and are perfectly aligned.
+ ###Before###
+  ![whatsapp image 2018-11-26 at 8 55 04 pm](https://user-images.githubusercontent.com/43185906/49056115-4220d000-f1c8-11e8-99ce-d594aae61304.jpeg)
+
+![whatsapp image 2018-11-26 at 8 55 04 pm 1](https://user-images.githubusercontent.com/43185906/49056122-4b11a180-f1c8-11e8-9fa9-ddd4a0cbd1b3.jpeg)
 
 # Week 11
 I worked on the Power up . First I had some problem finding the code online because the sensor I ordered was from Sparkfun programmed to  be run on Raspberry Pi 3b+ and all the code available online was of Adafruit and that was also Audrino driver. 
