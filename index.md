@@ -8,7 +8,7 @@ Worked on final Documentation of index.md and presentation during the class hour
 # Week 12 Nov20
 
 
-#### Progress Report:-####
+#### Progress Report:-
   This week I worked on the coral draw case . I had to make some changes in the coral draw file . As my Pcb  Board was slightly out of the raspberry pi . So I had to make changes in the width and length of the base as well as top layer but making sure that the hole-points for the raspberry pie and case don't change and are perfectly aligned.
   
  After
@@ -37,7 +37,8 @@ This is the picture of the coral  draw case
 
 # Week 11 Nov13
 
-#### Progress Report:-####
+#### Progress Report:-
+
 I worked on the Power up . First I had some problem finding the code online because the sensor I ordered was from Sparkfun programmed to  be run on Raspberry Pi 3b+ and all the code available online was of Adafruit and that was also Audrino driver.So this week there was no additional expense to my original budget. 
 
 Intiallly I faced some problem getting the values from the sensor , but by the end of the lab I was able to get the readings from my sensor.
@@ -54,7 +55,7 @@ I tried With different metallic as well as electromagnetic devices . As soon as 
 
 Got my pcb board and started working on soldering of it and made the use of necessary header pins as well as made sure that I can also get the same ip address once the sensor is soldered.
 
-####PROGRESS REPORT:- ####
+#### PROGRESS REPORT:-
 So it is week 10 and I got my PCB today from the prototype lab. I was late in getting it because when i went on monday to confirm that wheter my PCB is done but vlad told me that they havn't recieved any email under my name then I showed him the mail I had sent and he replied that it must be stuck in a spam or something like that and told me to re-send it again. So I got it on tuesday and did my soldering in the class.To connect my sensor to PCB I bought header pins for my sensor from the prototype lab. Once soldering was done so I tried to obtain my i2c address by connecting my PCB to the Raspberry and i was successful in doing it. 
 So no additional expense was added in my original budget.
 ![whatsapp image 2018-11-26 at 8 55 05 pm](https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg)
@@ -80,7 +81,7 @@ THe File I sent for my PCB
 
 ![whatsapp image 2018-10-31 at 12 09 39 pm 1](https://user-images.githubusercontent.com/43185906/47802072-eddc1a80-dd05-11e8-8b42-f29e63214f07.jpeg)
 
-#### Progress Report:-####
+#### Progress Report:-
 So it is week 09. This week I worked on fritzing to make my pcb design and intially I had problem in making the via connection ,but with the help of the professor I was able to learn it and made the proper Gerber file that I can send to prototype lab. 
 
 # Week8   Oct23 
