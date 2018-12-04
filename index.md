@@ -75,11 +75,12 @@ THe File I sent for my PCB
 **Gerber File**
 [sensor.zip](https://github.com/JayJadav/smartware/files/2618036/sensor.zip)
 
-![whatsapp image 2018-10-31 at 12 09 39 pm](https://user-images.githubusercontent.com/43185906/47802103-fdf3fa00-dd05-11e8-9b34-e50ed16d51f0.jpeg)
+![mag31110_bb](https://user-images.githubusercontent.com/43185906/49475944-9a6a5a00-f7e6-11e8-85b2-0a481f375d61.jpg)
 
-![whatsapp image 2018-10-31 at 12 09 39 pm 2](https://user-images.githubusercontent.com/43185906/47802088-f6ccec00-dd05-11e8-9973-30492c135280.jpeg)
+![mag31110_pcb](https://user-images.githubusercontent.com/43185906/49475951-a0603b00-f7e6-11e8-95a6-3c828f5f5883.jpg)
 
-![whatsapp image 2018-10-31 at 12 09 39 pm 1](https://user-images.githubusercontent.com/43185906/47802072-eddc1a80-dd05-11e8-8b42-f29e63214f07.jpeg)
+![mag31110_schem](https://user-images.githubusercontent.com/43185906/49475957-a3f3c200-f7e6-11e8-8d92-bc82fad63c6f.jpg)
+
 
 #### Progress Report:-
 So it is week 09. This week I worked on fritzing to make my pcb design and intially I had problem in making the via connection ,but with the help of the professor I was able to learn it and made the proper Gerber file that I can send to prototype lab. 
