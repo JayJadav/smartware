@@ -33,6 +33,8 @@ and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
 # Functionality:
 ![image](https://user-images.githubusercontent.com/43185906/49824195-8c20be80-fd4f-11e8-9433-6161749a942a.png)
 
+# build-materials-and-budget
+
 # Build Instructions
 
 
