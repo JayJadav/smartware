@@ -22,7 +22,7 @@
 Freescale's MAG3110 is a small, low-power, digital 3-axis magnetometer. The device can be used in conjunction with a 3-axis accelerometer to realize an orientation independent electronic compass that can provide accurate heading information.
 
 ![mag3110](https://user-images.githubusercontent.com/43185906/49823957-e2d9c880-fd4e-11e8-8f70-44ee31da6da7.jpg)
-        (sorce of Image : https://www.sparkfun.com/products/12670)
+ (source of Image : https://www.sparkfun.com/products/12670)
 
 You can buy Raspberry Pie from [here]( https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/)
 and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
