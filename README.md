@@ -10,7 +10,7 @@
 - [Functionality](#Functionality)
 - [Build Materials and Budget](#Build-materials-and-Budget)
 - [Time Commitment](#time-commitment)
-- [Mechanical Assembly](#mechanical-assembly)
+- [Mechanical Assembly](#Mechanical-Assembly)
 - [PCB and Soldering](#pcb-and-soldering)
 - [Powering Up Device](#powering-up-device)
 - [The Software](#the-software)
@@ -78,7 +78,81 @@ A detailed view of the schedule followed this semster can be downloaded from wit
 This schedule uses a weekly breakdown that follows the CENG 317 class schedule for the fall semester of 2018. This project could be completed in a more compact time frame if the builder so chooses. The schedule is helpful in outlining the overall flow and the order in which each milestone for the project is completed. Orignally the project was completed over a 15 week semester, however it could more reasonably be completed in 1-2 week(s) dependant on how many of the materials the builder already possesses, access to the facilities necessary in producing the PCB, and shipping times. 
 <br />
 
-# Build Instructions
+# Mechanical Assembly
+
+### Steps for setting up Rpi:
+
+a. Setup SD card:
+
+  - **NOOBS** is the recommended as well as easy to install software for initializing Raspberry Pi. 
+  - Insert SD card underneath Rpi's micro SD card slot
+ 
+b. Connections:
+
+   - HDMI cable,Ethernet cable,Keyboard,mouse 
+   
+  **Note** - Switch computer display to HDMI from VGA to initialize raspberry PI
+           - Must see red led on rpi and blinking green led. 
+           - During the setup, system will ask user to set username,password
+      
+ c. Setting up files for internet connection:
+ 
+  - Issue the following command: ``` sudo /etc/network/interfaces``` to make changes in wpa_supplicant.conf which looks like:
+  
+  ```
+  network={
+	ssid="myWi-Fi@Humber"
+	key_mgmt=WPA-EAP
+	auth_alg=OPEN
+	eap=PEAP
+	identity="Username or N-Number"
+	password="Password"
+	phase1="peaplabel=0"
+	phase2="auth=MSCHAPV2"
+	priority=999
+	proactive_key_caching=1
+}
+```
+**Make sure to reboot!**
+
+   - In order to run program from Putty, turn on ```SSH``` options from ```Interface``` option from Rpi
+   - For Sensor readings, enable ```GPIO feature```
+              
+ 
+ 
+ Startup Screen looks like:
+ 
+  
+   ![startscreen](https://user-images.githubusercontent.com/42980862/49777295-f1cc6680-fccd-11e8-8aad-ea40f830cb08.PNG)
+   
+  
+  Fresh Screen after setup:
+  
+![pi-desktop](https://user-images.githubusercontent.com/42980862/49777538-e62d6f80-fcce-11e8-9446-ed2d50d9548e.png)
+
+
+### In order to get rid of using HDMI, mouse and a keyboard there's an alternative steps:
+
+- Before making any connection to Rpi make sure to perform te steps
+
+    a. Go to ```Network And Sharing Center``` option from control panel and go to your actual Wifi connection to which computer is connected to and then go to ```properties/Sharing``` which looks like:
+    
+    ![wifi stat](https://user-images.githubusercontent.com/42980862/49777786-f1cd6600-fccf-11e8-9720-2d31cc633486.PNG)
+    
+    b. Enable the following option:  
+    - [x] Allow other network users to connect through this computer's internet connection. 
+    And in the dropdown list choose your Ethernet option
+    
+    ![ethrnt](https://user-images.githubusercontent.com/42980862/49778059-445b5200-fcd1-11e8-9e32-a4653de4528f.PNG)
+    
+    This will assign IP address to your raspberry Pi.
+    
+    c. Go to remote desktop connection and go for ```raspberrypi.mashome.net```
+    
+    ![image](https://user-images.githubusercontent.com/42980862/49778147-ab790680-fcd1-11e8-9469-78ef9798cf00.png)
+
+
+
 
 
 
