@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [UML Diagram](#UML Diagram)
+- [UML Diagram](#UML-Diagram)
 - [Functionality](#Functionality)
 - [Build Materials and Budget](#build-materials-and-budget)
 
