@@ -34,7 +34,7 @@ and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
 
 # Build-Materials-and-Budget
 
-A full list of materials along with a detailed view of costs can be downloaded form within this repository [here][budget.docx](https://github.com/JayJadav/smartware/files/2621811/budget.docx)
+A full list of materials along with a detailed view of costs can be downloaded form within this repository.[budget.docx](https://github.com/JayJadav/smartware/files/2621811/budget.docx)
 
 The total cost of producing this project is heavily inflated due to the cost of the soldering kit that was supplied in the lab during
 development. Any generic solding iron can be used for this project.
