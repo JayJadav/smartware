@@ -34,7 +34,14 @@ and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
 
 # Build-Materials-and-Budget
 
+A full list of materials along with a detailed view of costs can be downloaded form within this repository [here][budget.docx](https://github.com/JayJadav/smartware/files/2621811/budget.docx)
 
+The total cost of producing this project is heavily inflated due to the cost of the soldering kit that was supplied in the lab during
+development. Any generic solding iron can be used for this project.
+
+The total cost after removing the soldering kit is: **$398.27 CAD** after HST. This includes all the tools used in completing the project (eg. wirecutters, needlenose pliers, breadboard, etc.)
+
+Notable purchases include: Raspberry Pi 3B+ Kit ($94.95 CAD) and Digole 2.4" LCD display with touch capabilities ($17.49 USD).
 
 # Build Instructions
 
