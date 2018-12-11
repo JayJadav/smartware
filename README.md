@@ -170,9 +170,18 @@ b. Connections:
 After following the Pinout this is what the breadboarded sensor will look like 
 ![image](https://user-images.githubusercontent.com/43185906/49827675-e02fa100-fd57-11e8-9ca3-f8e56ec868c1.png)
 
+
 Next, to ensure the MAG3110 has been connected properly for I2C communications, the following command should be entered in to the Pi's terminal: ```sudo i2cdetect -y 1```. This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the MAG3110 uses is 0x0e.
 
+
 ![whatsapp image 2018-11-26 at 8 55 05 pm](https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg)
+
+## PCB and Soldering
+The following PCB was designed and used for this project. The Gerber files for the PCB can be found from within this repository.[sensor.zip](https://github.com/JayJadav/smartware/files/2618036/sensor.zip) Included in these files is a save for the application **Fritzing** which was used to produce this design. This file can be opened and used by the same program to add any modifications to the board as the builder should see fit. Such as, their own name and a description. 
+
+
+
+To construct the PCB, the prototype lab located at Humber College was used. However, any third party production facility may be used, as the files are universally accepted as an industry standard. The two images below show the PCB constructed from both the top and bottom. A 6 pin header has been soldered to the top of the PCB to connect to the MAG3110 and a 68 pin header has been soldered to the bottom to connect to the GPIO pins on the Pi.
 
 
 
