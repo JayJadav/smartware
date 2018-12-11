@@ -12,7 +12,7 @@
 - [Time Commitment](#time-commitment)
 - [Mechanical Assembly](#Mechanical-Assembly)
 - [PCB and Soldering](#pcb-and-soldering)
-- [Unit Testing](#Unit-Testing)
+- [Unit Testing and Power Up](#Unit-Testing-and-Power-Up)
 - [Finished Product](#finished-product)
 - [Resources](#resources)
 <br />
@@ -210,7 +210,7 @@ To construct the PCB, the prototype lab located at Humber College was used. Howe
 ##### Bottom 
 ![whatsapp image 2018-11-26 at 8 55 06 pm 5](https://user-images.githubusercontent.com/43185906/49055245-d8eb8d80-f1c4-11e8-9943-502f761685ae.jpeg)
 
-# Unit-Testing 
+# Unit-Testing and Power Up
 
 To run the following code on rpi, issue the following command sudo python3 MAG3110.py
 
