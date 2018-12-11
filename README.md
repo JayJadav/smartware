@@ -2,7 +2,7 @@
 ####            By Jay Jadav • For Hardware Production Technology CENG 317, Humber College School of Applied Technology
 
 <br />
-# MAG3110 Sensor
+ # MAG3110 Sensor
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -13,6 +13,7 @@
 - [Mechanical Assembly](#Mechanical-Assembly)
 - [PCB and Soldering](#pcb-and-soldering)
 - [Unit Testing and Power Up](#Unit-Testing-and-Power-Up)
+- [Production Testing](#Production-Testing)
 - [Finished Product](#finished-product)
 - [Resources](#resources)
 <br />
@@ -219,8 +220,18 @@ To run the following code on rpi, issue the following command sudo python3 MAG31
  **MAG3110.py**
  [MAG3110.zip](https://github.com/JayJadav/smartware/files/2618144/MAG3110.zip)
 
-readings:
-
+**Readings:**
 ![whatsapp image 2018-11-26 at 8 55 05 pm 2](https://user-images.githubusercontent.com/43185906/49055855-34b71600-f1c7-11e8-91f5-171996c0d903.jpeg)
 
+For creating the enclosure,I used Coral Draw App and design the case for my sensor and raspberry pie .
+This is the coral draw file:-
 
+[CORAL_CASE.zip](https://github.com/JayJadav/smartware/files/2618218/CORAL_CASE.zip)
+
+
+![capture](https://user-images.githubusercontent.com/43185906/49056605-5f569e00-f1ca-11e8-9c04-012a5cc33bea.PNG)
+
+# Production-Testing
+
+For the Production-testing One has no more need to solder it manually. THE whole Soldering job of the Project can be made automated.
+Also the testing of the sensor can be made automated by bringing an electro-magnetic substance in contact with the sensor to make dsure the calibration of the sensor changes.
