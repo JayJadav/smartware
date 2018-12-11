@@ -236,3 +236,7 @@ This is the coral draw file:-
 
 For the Production-testing One has no more need to solder it manually. THE whole Soldering job of the Project can be made automated.
 Also the testing of the sensor can be made automated by bringing an electro-magnetic substance in contact with the sensor to make dsure the calibration of the sensor changes.
+
+# Finished Product
+
+![whatsapp image 2018-11-26 at 8 55 04 pm 7](https://user-images.githubusercontent.com/43185906/49056831-3da9e680-f1cb-11e8-97d0-8c86cfe8e4aa.jpeg)
