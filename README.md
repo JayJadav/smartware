@@ -181,7 +181,28 @@ Next, to ensure the MAG3110 has been connected properly for I2C communications, 
 ## PCB and Soldering
 The following PCB was designed and used for this project. The Gerber files for the PCB can be found from within this repository.[sensor.zip](https://github.com/JayJadav/smartware/files/2618036/sensor.zip) Included in these files is a save for the application **Fritzing** which was used to produce this design. This file can be opened and used by the same program to add any modifications to the board as the builder should see fit. Such as, their own name and a description. 
 
+###### The PCB diagram:-
+ 
+![49475951-a0603b00-f7e6-11e8-95a6-3c828f5f5883](https://user-images.githubusercontent.com/43185906/49830311-ccd40400-fd5e-11e8-9a8b-a9df599171f1.jpg)
 
+### 5 Steps for Soldering:
+1. Heat up your iron (600-700 degrees F or 315-370 degrees C)
+
+![a](https://user-images.githubusercontent.com/42980862/49781457-cb63f680-fce0-11e8-82eb-613669997e40.PNG)
+
+2. Make sure connection are mechanically stable using helping hands to keep parts steady.
+
+![b](https://user-images.githubusercontent.com/42980862/49781552-2b5a9d00-fce1-11e8-82dd-deca47e9e57e.PNG)
+
+3. Clean iron that builds oxide layer, which inhibits heat transfer and solder adhesion using sponge wire.
+
+![image](https://user-images.githubusercontent.com/42980862/49781575-43cab780-fce1-11e8-95ad-500c5b4705eb.png)
+
+4. Apply heat and solder (soldering time sometimes varies)
+
+![c](https://user-images.githubusercontent.com/42980862/49781732-dd926480-fce1-11e8-9c6f-daf2468aa2b8.PNG)
+
+5. Inspect the join ( Smooth and shiny surface can be observed using a microscope)
 
 To construct the PCB, the prototype lab located at Humber College was used. However, any third party production facility may be used, as the files are universally accepted as an industry standard. The two images below show the PCB constructed from both the top and bottom. A 6 pin header has been soldered to the top of the PCB to connect to the MAG3110 and a 68 pin header has been soldered to the bottom to connect to the GPIO pins on the Pi.
 
