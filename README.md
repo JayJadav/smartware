@@ -186,8 +186,7 @@ The following PCB was designed and used for this project. The Gerber files for t
 To construct the PCB, the prototype lab located at Humber College was used. However, any third party production facility may be used, as the files are universally accepted as an industry standard. The two images below show the PCB constructed from both the top and bottom. A 6 pin header has been soldered to the top of the PCB to connect to the MAG3110 and a 68 pin header has been soldered to the bottom to connect to the GPIO pins on the Pi.
 
 ##### Top
-![whatsapp image 2018-11-26 at 8 55 06 pm 3](https://user-images.githubusercontent.com/43185906/49054973-084dca80-f1c4-11e8-9900-
-d0bf9f48963b.jpeg)
+![49054973-084dca80-f1c4-11e8-9900-d0bf9f48963b](https://user-images.githubusercontent.com/43185906/49830177-6b139a00-fd5e-11e8-816f-f34deeb9e746.jpeg)
 
 ##### Bottom 
 ![whatsapp image 2018-11-26 at 8 55 06 pm 5](https://user-images.githubusercontent.com/43185906/49055245-d8eb8d80-f1c4-11e8-9943-502f761685ae.jpeg)
