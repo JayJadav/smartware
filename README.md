@@ -1,5 +1,5 @@
 # Build Instructions for using MAG3110 Magnetometer Sensor on a Raspberry Pi 3B+
-#### By Jay Jadav • For Hardware Production Technology CENG 317, Humber College School of Applied Technology
+####            By Jay Jadav • For Hardware Production Technology CENG 317, Humber College School of Applied Technology
 
 <br />
 # MAG3110 Sensor
