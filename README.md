@@ -8,7 +8,7 @@
 - [Introduction](#Introduction)
 - [UML Diagram](#UML-Diagram)
 - [Functionality](#Functionality)
-- [Build Materials and Budget](#build-materials-and-budget)
+- [Build Materials and Budget](#Build-materials-and-Budget)
 - [Time Commitment](#time-commitment)
 - [Mechanical Assembly](#mechanical-assembly)
 - [PCB and Soldering](#pcb-and-soldering)
@@ -32,10 +32,28 @@ and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
 # Functionality:
 ![image](https://user-images.githubusercontent.com/43185906/49824195-8c20be80-fd4f-11e8-9433-6161749a942a.png)
 
-# build-materials-and-budget
+# Build-Materials-and-Budget
+
 
 
 # Build Instructions
+
+### Raspberry Pi 3b+
+
+![rpi3b](https://user-images.githubusercontent.com/42980862/49776194-078b5d00-fcc9-11e8-8d61-f96a17dfd31c.PNG)
+
+Also known as Rpi 3b+ is the newest as well as fastest pocket sized computer. 
+
+### Features and Specifications:
+
+- 1.4GHz 64-bit quad-core processor
+- dual-band wireless LAN
+- Bluetooth 4.2/BLE
+- Faster Ethernet
+- Power-over-Ethernet support 
+- 4 USB 2.0 ports
+- 5V/2.5A DC power input
+- MicroSD for setting up Operating System as well as storing personal data
 
 
 
