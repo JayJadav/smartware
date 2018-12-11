@@ -65,12 +65,12 @@ Also known as Rpi 3b+ is the newest as well as fastest pocket sized computer.
 
 ### Features and Specifications:
 
-1.95V to 3.6V Supply Voltage
-7-bit I2C address = 0x0E
-Full Scale Range ±1000 μT
-Sensitivity of 0.10 μT
-Pull Up Resistor Jumper
-13.3 x 14.5 mm
+- 1.95V to 3.6V Supply Voltage
+- 7-bit I2C address = 0x0E
+- Full Scale Range ±1000 μT
+- Sensitivity of 0.10 μT
+- Pull Up Resistor Jumper
+- 13.3 x 14.5 mm
 
 ## Time Commitment
 A detailed view of the schedule followed this semster can be downloaded from within this repository [Schedule.zip](https://github.com/JayJadav/smartware/files/2621844/Schedule.zip)
