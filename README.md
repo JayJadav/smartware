@@ -41,7 +41,7 @@ development. Any generic solding iron can be used for this project.
 
 The total cost after removing the soldering kit is: **$398.27 CAD** after HST. This includes all the tools used in completing the project (eg. wirecutters, needlenose pliers, breadboard, etc.)
 
-Notable purchases include: Raspberry Pi 3B+ Kit ($94.95 CAD) and Digole 2.4" LCD display with touch capabilities ($17.49 USD).
+Notable purchases include: Raspberry Pi 3B+ Kit ($107.29 CAD) and MAG3110 3-axis Magnetometer ($24.76 CAD).
 
 # Build Instructions
 
