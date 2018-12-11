@@ -80,7 +80,7 @@ This schedule uses a weekly breakdown that follows the CENG 317 class schedule f
 
 # Mechanical Assembly
 
-### Steps for setting up Rpi:
+### 1) Steps for setting up Rpi:
 
 a. Setup SD card:
 
@@ -150,6 +150,21 @@ b. Connections:
     c. Go to remote desktop connection and go for ```raspberrypi.mashome.net```
     
     ![image](https://user-images.githubusercontent.com/42980862/49778147-ab790680-fcd1-11e8-9469-78ef9798cf00.png)
+    
+    
+   ### 2) Steps for pinout (Only for sensor that I’m currently holding):
+
+1) Solder your sensor
+
+2) Follow the RPI Header reference for your pinout to breadboard
+
+3) Look for the 3V/5V pin from your Rpi and connect it to breadboard (pin no.1)
+
+4) Connect VCC to 3V power supply and GND to common ground (pin no.5 in 2nd Row)
+
+5) Now connect your SCL to I2C clock SCL pin on your RPi(pin no.3 in 2nd Row)
+
+6) Connect SDA to I2C clock SDA pin on your RPI (which is pin no.2 in 2nd Row)
 
 
 
