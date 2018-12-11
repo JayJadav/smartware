@@ -9,7 +9,6 @@
 - [UML Diagram](#UML-Diagram)
 - [Functionality](#Functionality)
 - [Build Materials and Budget](#build-materials-and-budget)
-
 - [Time Commitment](#time-commitment)
 - [Mechanical Assembly](#mechanical-assembly)
 - [PCB and Soldering](#pcb-and-soldering)
@@ -34,6 +33,7 @@ and  the MAG3110 sensor from [here]( https://www.sparkfun.com/products/12670).
 ![image](https://user-images.githubusercontent.com/43185906/49824195-8c20be80-fd4f-11e8-9433-6161749a942a.png)
 
 # build-materials-and-budget
+
 
 # Build Instructions
 
