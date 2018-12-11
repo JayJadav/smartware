@@ -59,7 +59,7 @@ Also known as Rpi 3b+ is the newest as well as fastest pocket sized computer.
 - 5V/2.5A DC power input
 - MicroSD for setting up Operating System as well as storing personal data
 
-## MAG3110 
+### MAG3110 
 
 ![mag3110](https://user-images.githubusercontent.com/43185906/49823957-e2d9c880-fd4e-11e8-8f70-44ee31da6da7.jpg)
 
@@ -72,7 +72,14 @@ Sensitivity of 0.10 μT
 Pull Up Resistor Jumper
 13.3 x 14.5 mm
 
+## Time Commitment
+A detailed view of the schedule followed this semster can be downloaded from within this repository [Schedule.zip](https://github.com/JayJadav/smartware/files/2621844/Schedule.zip)
+
+This schedule uses a weekly breakdown that follows the CENG 317 class schedule for the fall semester of 2018. This project could be completed in a more compact time frame if the builder so chooses. The schedule is helpful in outlining the overall flow and the order in which each milestone for the project is completed. Orignally the project was completed over a 15 week semester, however it could more reasonably be completed in 1-2 week(s) dependant on how many of the materials the builder already possesses, access to the facilities necessary in producing the PCB, and shipping times. 
+<br />
+
 # Build Instructions
+
 
 
 
