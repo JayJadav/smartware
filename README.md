@@ -152,7 +152,7 @@ b. Connections:
     ![image](https://user-images.githubusercontent.com/42980862/49778147-ab790680-fcd1-11e8-9469-78ef9798cf00.png)
     
     
-   ### 2) Steps for pinout (Only for sensor that I’m currently holding):
+   ### 2) Steps for pinout:
 
 1) Solder your sensor
 
@@ -165,6 +165,10 @@ b. Connections:
 5) Now connect your SCL to I2C clock SCL pin on your RPi(pin no.3 in 2nd Row)
 
 6) Connect SDA to I2C clock SDA pin on your RPI (which is pin no.2 in 2nd Row)
+
+#### Breadboard ####
+After following the Pinout this is what the breadboarded sensor will look like 
+![image](https://user-images.githubusercontent.com/43185906/49827675-e02fa100-fd57-11e8-9ca3-f8e56ec868c1.png)
 
 
 
