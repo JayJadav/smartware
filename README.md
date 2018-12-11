@@ -43,8 +43,6 @@ The total cost after removing the soldering kit is: **$398.27 CAD** after HST. T
 
 Notable purchases include: Raspberry Pi 3B+ Kit ($107.29 CAD) and MAG3110 3-axis Magnetometer ($24.76 CAD).
 
-# Build Instructions
-
 ### Raspberry Pi 3b+
 
 ![rpi3b](https://user-images.githubusercontent.com/42980862/49776194-078b5d00-fcc9-11e8-8d61-f96a17dfd31c.PNG)
@@ -52,7 +50,6 @@ Notable purchases include: Raspberry Pi 3B+ Kit ($107.29 CAD) and MAG3110 3-axis
 Also known as Rpi 3b+ is the newest as well as fastest pocket sized computer. 
 
 ### Features and Specifications:
-
 - 1.4GHz 64-bit quad-core processor
 - dual-band wireless LAN
 - Bluetooth 4.2/BLE
@@ -61,6 +58,21 @@ Also known as Rpi 3b+ is the newest as well as fastest pocket sized computer.
 - 4 USB 2.0 ports
 - 5V/2.5A DC power input
 - MicroSD for setting up Operating System as well as storing personal data
+
+## MAG3110 
+
+![mag3110](https://user-images.githubusercontent.com/43185906/49823957-e2d9c880-fd4e-11e8-8f70-44ee31da6da7.jpg)
+
+### Features and Specifications:
+
+1.95V to 3.6V Supply Voltage
+7-bit I2C address = 0x0E
+Full Scale Range ±1000 μT
+Sensitivity of 0.10 μT
+Pull Up Resistor Jumper
+13.3 x 14.5 mm
+
+# Build Instructions
 
 
 
