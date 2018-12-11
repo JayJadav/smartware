@@ -170,8 +170,9 @@ b. Connections:
 After following the Pinout this is what the breadboarded sensor will look like 
 ![image](https://user-images.githubusercontent.com/43185906/49827675-e02fa100-fd57-11e8-9ca3-f8e56ec868c1.png)
 
+Next, to ensure the MAG3110 has been connected properly for I2C communications, the following command should be entered in to the Pi's terminal: ```sudo i2cdetect -y 1```. This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the MAG3110 uses is 0x0e.
 
-
+https://user-images.githubusercontent.com/43185906/49053955-582a9280-f1c0-11e8-80eb-0f55d59a4f8a.jpeg
 
 
 
