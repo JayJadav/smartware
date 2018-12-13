@@ -2,7 +2,7 @@
 **Presentation**
 
 Worked on final Documentation of index.md and presentation during the class hours.
-
+The Final Presentation :
 [MAG3110 3-Axis Magnetometer.pptx](https://github.com/JayJadav/smartware/files/2622098/MAG3110.3-Axis.Magnetometer.pptx)
 
 # Week 12 Nov20
